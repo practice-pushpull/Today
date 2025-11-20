@@ -1,7 +1,12 @@
 *{
     margin:0;
     padding:0;
-    background-color::-webkit-validation-bubble-text-block {
+ 
         background-color: red;
-    }
+    
+}
+.h1{
+    color: blueviolet;
+    font-style: italic;
+
 }
